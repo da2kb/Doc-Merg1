@@ -1,0 +1,7 @@
+C:\Users\dina_\DocMerg\DocMerg\bin\Debug\DocMerg.exe.config
+C:\Users\dina_\DocMerg\DocMerg\bin\Debug\DocMerg.exe
+C:\Users\dina_\DocMerg\DocMerg\bin\Debug\DocMerg.pdb
+C:\Users\dina_\DocMerg\DocMerg\obj\Debug\DocMerg.csprojAssemblyReference.cache
+C:\Users\dina_\DocMerg\DocMerg\obj\Debug\DocMerg.csproj.CoreCompileInputs.cache
+C:\Users\dina_\DocMerg\DocMerg\obj\Debug\DocMerg.exe
+C:\Users\dina_\DocMerg\DocMerg\obj\Debug\DocMerg.pdb
